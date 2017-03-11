@@ -1,3 +1,11 @@
+/* 
+    Sources used to make this code:
+        https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/
+        https://github.com/panicsteve/cloud-to-butt
+
+    Thank you to these authors!
+*/
+
 var elements = document.getElementsByTagName('*');
 
 for (var i = 0; i < elements.length; i++) {
