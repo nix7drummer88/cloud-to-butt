@@ -8,13 +8,21 @@ for (var i = 0; i < elements.length; i++) {
 
         if (node.nodeType === 3) {
             var text = node.nodeValue;
-            
-            var replacedText = text.replace(/Hacking/, 'Password getting');
-            var replacedText = text.replace(/hackers/, 'password getters');
 
-            if (replacedText !== text) {
-                element.replaceChild(document.createTextNode(replacedText), node);
-            }
+            text = text.replace(/Hacker/, 'Password getter');
+            text = text.replace(/Hackers/, 'Password getters');
+            text = text.replace(/hacker/, 'password getter');
+            text = text.replace(/hackers/, 'password getters');
+            text = text.replace(/hacked/, 'got the password');
+            text = text.replace(/Hacked/, 'Got the password');
+            text = text.replace(/hack/, 'password get');
+            text = text.replace(/Hack/, 'Password get');
+            text = text.replace(/hacks/, 'password gets');
+            text = text.replace(/Hacks/, 'Password gets');
+            text = text.replace(/hacking/, 'password getting');
+            text = text.replace(/Hacking/, 'Password getting');
+
+            node.nodeValue = text;
         }
     }
 }
