@@ -5,7 +5,7 @@ hack-to-password-get
 
 Chrome extension that replaces occurrences of 'hacking' with 'password getting'. Inspired by the popular cloud-to-butt extensions.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/nix7drummer88/cloud-to-butt/blob/master/HackToPasswordGet.crx?raw=true)
 
 Screenshot Gallery
 ------------------
