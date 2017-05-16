@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Hack to password get",
+	"name": "Trump to Clinton",
 	"version": "1.0",
-	"description": "Replaces the text 'hacking' with 'password getting'.",
-	"content_scripts": 
+	"description": "Replaces text pertaining to Trump and his administration with Clinton.",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
