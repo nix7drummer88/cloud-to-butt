@@ -3,11 +3,11 @@ hack-to-password-get
 
 ![](logo.png)
 
-Chrome extension that replaces occurrences of 'hacking' with 'password getting'. Inspired by the popular cloud-to-butt extensions.
+Chrome extension that replaces occurrences of 'web development' with 'butt stuff'. Inspired by the popular cloud-to-butt extensions.
 
-Sometimes there are real hacks in the world, but far too often what the media calls a 'hack' is more of a 'got their password' through social engineering or other means. This extension aims to poke fun at this.
+Why this silly thing, you ask? Well, I've got a very good friend of mine who is not all that fond of web development. Every time our developer friends talk about web development he refers to it as 'butt stuff', and this extension is for him.
 
-[Direct download of crx file](https://github.com/nix7drummer88/hack-to-password-get/blob/master/HackToPasswordGet.crx?raw=true)
+[Direct download of crx file](https://github.com/nix7drummer88/hack-to-password-get/blob/feature/web-to-buttstuff/HackToPasswordGet.crx?raw=true)
 
 Screenshot Gallery
 ------------------
