@@ -7,7 +7,7 @@ Chrome extension that replaces occurrences of 'web development' with 'butt stuff
 
 Why this silly thing, you ask? Well, I've got a very good friend of mine who is not all that fond of web development. Every time our developer friends talk about web development he refers to it as 'butt stuff', and this extension is for him.
 
-[Direct download of crx file](https://github.com/nix7drummer88/hack-to-password-get/blob/feature/web-to-buttstuff/HackToPasswordGet.crx?raw=true)
+[Direct download of crx file](https://github.com/nix7drummer88/hack-to-password-get/blob/feature/web-to-buttstuff/WebDevToButtStuff.crx?raw=true)
 
 Screenshot Gallery
 ------------------
